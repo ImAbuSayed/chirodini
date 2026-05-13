@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chirodini/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Chirodini](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chirodini/) |
+| **Get License** | [Commercial Licensing for Chirodini](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chirodini/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 195e10998e5a3ef28e0023b371cd709fa04a23da
+> অন্ধকার এই শহরে তুমি যে আমার আলো
+> কী করে বোঝাই তোমায় বেসেছি কতো ভালো
+> ধুলোমাখা এই পথে খুঁজছি তোমার ছায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
