@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chirodini/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Chirodini](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chirodini/) |
+| **Get License** | [Official Music Licensing for Chirodini](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chirodini/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fcf3e18ebc2a97e2cd032177b2d54016374ffee7e686c6d2f7b4a28a22e0e92a` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
